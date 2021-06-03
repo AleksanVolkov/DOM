@@ -1,0 +1,91 @@
+.square1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    margin: 50px;
+    color: cornsilk;
+    text-align: center;
+    font-size: medium;
+    border: 1px solid darkgrey;
+    box-shadow:  4px 6px 10px rgb(109, 108, 108);
+    
+
+}
+.square2{
+    margin-bottom: 125px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(88, 11, 71);
+    margin-top: 50px;
+    color: cornsilk;
+    text-align: center;
+    font-size: medium;
+    box-shadow:  4px 6px 10px rgb(109, 108, 108);
+    
+
+}
+.square3{
+    width: 60px;
+    height: 90px;
+    background-color: rgb(94, 100, 12);
+    margin: 50px;
+    color: cornsilk;
+    text-align: center;
+    font-size: medium;
+    box-shadow:  4px 6px 10px rgb(109, 108, 108);
+    
+
+}
+.circle1{
+    width: 110px;
+    height: 110px;
+    background-color: rgb(14, 98, 49);
+    margin: 50px;
+    color: cornsilk;
+    text-align: center;
+    font-size: medium;
+    box-shadow:  4px 6px 10px rgb(109, 108, 108);
+    border-radius: 55px;
+    
+
+}
+.circle2{
+    margin-top: 25px;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(69, 11, 175);
+    margin: 50px;
+    color: cornsilk;
+    text-align: center;
+    font-size: medium;
+    box-shadow:  4px 6px 10px rgb(109, 108, 108);
+    border-radius: 40px;
+    
+
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color: darkslategray;
+    color: floralwhite;
+    font-weight: normal;
+    font-size: medium;
+    box-shadow: 6px 8px 8px black;
+    margin: 20px;
+    border-radius: 25px;
+    transition: all 0.5s ease;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
+.dive {
+    width: 250px;
+    height: 50px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin-top: 45px;
+    align-items: center;
+
+}
